@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeAreaCalculator", "ShapeAreaCalculator\ShapeAreaCalculator.csproj", "{A43DE712-EEA5-488D-B838-EAACE8946156}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestShapeAreaCalculator", "TestShapeAreaCalculator\TestShapeAreaCalculator.csproj", "{F7DC1D92-496C-4CC8-96D8-1CD72CC2B5EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A43DE712-EEA5-488D-B838-EAACE8946156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43DE712-EEA5-488D-B838-EAACE8946156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43DE712-EEA5-488D-B838-EAACE8946156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43DE712-EEA5-488D-B838-EAACE8946156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7DC1D92-496C-4CC8-96D8-1CD72CC2B5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7DC1D92-496C-4CC8-96D8-1CD72CC2B5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7DC1D92-496C-4CC8-96D8-1CD72CC2B5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7DC1D92-496C-4CC8-96D8-1CD72CC2B5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
